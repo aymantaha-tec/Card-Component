@@ -26,4 +26,4 @@ Figma - Paste your design image to check the size of containers, width, etc.
 Perfect Pixel - Awesome Chrome extension that helps you to match the pixels of the provided design.
 Acknowledgments
 A big thank you to anyone providing feedback on my solution. It definitely helps to find new ways to code and find easier solutions!
-https://ayta88.github.io/Card-Component/
+https://aymantaha-tec.github.io/Card-Component/
